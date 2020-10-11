@@ -1,6 +1,6 @@
 # Assignment 2
 
-- Latest webpage url: https://web.iiit.ac.in/~arvind.narayanan/
+- Latest webpage url: https://psib0t.github.io/portfolio/
 - Built using pure HTML, CSS and vanilla JS
 - Pages: A single page (index.html) separated into 4 sections
     - Home

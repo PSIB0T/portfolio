@@ -81,7 +81,7 @@ let projects = [{
 }, {
     name: "FTerm",
     id: "fterm",
-    url: "./Resources/Images/terminal_option.JPG",
+    url: "./Resources/Images/terminal_option.jpg",
     links: [{
         type: "github",
         url: "https://github.com/PSIB0T/FTerm"
